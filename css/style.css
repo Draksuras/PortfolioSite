@@ -5,6 +5,12 @@ body {
 	font-weight: 300;
 }
 
+.horizonal-super {
+
+    height: 3px;
+    background-color: #BCBBBB;
+}
+
 .text-muted {
 
 
